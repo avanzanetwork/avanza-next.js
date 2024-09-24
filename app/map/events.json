@@ -142,5 +142,17 @@
       "city": "Albuquerque",
       "state": "NM",
       "coordinates": [35.0844, -106.6504]
-    }
+    },
+    {
+        "name": "El Paso 2024",
+        "orgPartners": "University of Texas at El Paso",
+        "when": "2024-09-27",
+        "type": "In person",
+        "attendees": "",
+        "notes": "Annual conference ESTIMATE",
+        "studentParticipation": 2400,
+        "city": "El Paso",
+        "state": "TX",
+        "coordinates": [31.7619, -106.4850]
+      }
   ]
