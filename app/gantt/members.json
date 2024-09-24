@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Moises Trejo",
+    "graduationYear": 2022,
+    "degrees": ["B.S. Computer Science"],
+    "linkedin": "https://www.linkedin.com/in/moisestrejo/",
+    "website": "https://moisestrejo.com"
+  },
+  {
+    "name": "Emily Rodriguez",
+    "graduationYear": 2018,
+    "degrees": ["B.S. Computer Science", "M.S. Data Science"],
+    "linkedin": "https://www.linkedin.com/in/emily-rodriguez",
+    "website": "https://emilyrodriguez.com"
+  },
+  {
+    "name": "Michael Chang",
+    "graduationYear": 2020,
+    "degrees": ["B.A. Economics"],
+    "linkedin": "https://www.linkedin.com/in/michael-chang"
+  },
+  {
+    "name": "Sarah Johnson",
+    "graduationYear": 2019,
+    "degrees": ["B.S. Mechanical Engineering", "M.Eng. Robotics"],
+    "linkedin": "https://www.linkedin.com/in/sarah-johnson",
+    "website": "https://sarahjohnson.io"
+  },
+  {
+    "name": "David Lee",
+    "graduationYear": 2021,
+    "degrees": ["B.S. Biology"],
+    "linkedin": "https://www.linkedin.com/in/david-lee"
+  },
+  {
+    "name": "Jessica Martinez",
+    "graduationYear": 2017,
+    "degrees": ["B.A. Psychology", "M.A. Counseling"],
+    "linkedin": "https://www.linkedin.com/in/jessica-martinez"
+  },
+  {
+    "name": "Alexander Kim",
+    "graduationYear": 2022,
+    "degrees": ["B.S. Electrical Engineering"],
+    "linkedin": "https://www.linkedin.com/in/alexander-kim",
+    "website": "https://alexkim.dev"
+  },
+  {
+    "name": "Rachel Thompson",
+    "graduationYear": 2016,
+    "degrees": ["B.A. Communications", "M.B.A."],
+    "linkedin": "https://www.linkedin.com/in/rachel-thompson"
+  },
+  {
+    "name": "Daniel Garcia",
+    "graduationYear": 2023,
+    "degrees": ["B.S. Environmental Science"],
+    "linkedin": "https://www.linkedin.com/in/daniel-garcia"
+  },
+  {
+    "name": "Olivia Wilson",
+    "graduationYear": 2015,
+    "degrees": ["B.F.A. Graphic Design"],
+    "linkedin": "https://www.linkedin.com/in/olivia-wilson",
+    "website": "https://oliviawilsondesign.com"
+  },
+  {
+    "name": "Christopher Brown",
+    "graduationYear": 2020,
+    "degrees": ["B.S. Physics", "Ph.D. Astrophysics"],
+    "linkedin": "https://www.linkedin.com/in/christopher-brown",
+    "website": "https://chrisbrown.space"
+  }
+]
