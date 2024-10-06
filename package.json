@@ -2,11 +2,13 @@
   "name": "avanza-next.js",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://avanzanetwork.github.io/avanza-next.js/",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "deploy": "npm run build && gh-pages -d out"
   },
   "dependencies": {
     "leaflet": "^1.9.4",
@@ -19,6 +21,7 @@
   "devDependencies": {
     "eslint": "^8",
     "eslint-config-next": "14.2.13",
+    "gh-pages": "^6.1.1",
     "postcss": "^8",
     "tailwindcss": "^3.4.1"
   }
