@@ -5,6 +5,11 @@
       "School Info": "MIT, BS Electrical Engineering, 1990\nUCLA, MS. Electrical Engineering, 1995\nUCLA, Ph.D. Electrical Engineering, 2007"
     },
     {
+        "First Name": "Antonio",
+        "Last Name": "Alvarez",
+        "School Info": "UTEP, BS Computer Technology/Computer Systems Technology, 1990"
+    },
+    {
       "First Name": "Eduardo",
       "Last Name": "Grado",
       "School Info": "MIT , BS Management Science, 1983"
@@ -142,7 +147,7 @@
     {
       "First Name": "George",
       "Last Name": "Apostol",
-      "School Info": "MIT, BSEE, 1987"
+      "School Info": "MIT, BS Electrical Engineering, 1987"
     },
     {
       "First Name": "Frances",
@@ -162,7 +167,7 @@
     {
       "First Name": "George",
       "Last Name": "Pastrana",
-      "School Info": "MIT, BS Physics, 1978\nStanford, Physics PhD Program (ABD), 1987"
+      "School Info": "MIT, BS Physics, 1979\nStanford, Physics PhD Program (ABD), 1987"
     },
     {
       "First Name": "Leticia",

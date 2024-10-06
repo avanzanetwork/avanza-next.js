@@ -32,7 +32,9 @@ const GanttChart = () => {
         const graduationYear = parseInt(year);
         if (!isNaN(graduationYear)) {
           let duration = 0; // Default for BS
-          if (['PHD', 'Ph.D.', 'ABD', 'BS'].some(degree => degreeInfo.includes(degree))) {
+          if (degreeInfo.includes('ABD')) {
+            duration = 7;
+          } else if (['PHD', 'Ph.D.', 'BS'].some(degree => degreeInfo.includes(degree))) {
             duration = 4;
           } else if (degreeInfo.includes('MS')) {
             duration = 2;
