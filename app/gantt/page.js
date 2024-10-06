@@ -43,8 +43,8 @@ const GanttChart = () => {
           }
           memberDegrees[fullName].push({
             degree: `${school} - ${degreeInfo}`,
-            start: new Date(graduationYear - duration, 8, 1),
-            end: new Date(graduationYear, 5, 1)
+            start: new Date(graduationYear - duration, 7, 1),
+            end: new Date(graduationYear, 4, 1)
           });
         }
       });
